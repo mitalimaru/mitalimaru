@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitalimaru
 - 👀 I’m interested in data analytics, data visualization and business intelligence.
-- 🌱 I’m currently learning python, power-bi, mysql and tableau.
+- 🌱 I’m currently learning python, power-bi, mysql, tableau and r-programming.
 - 💞️ I’m looking to collaborate on data-driven analytical projects.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've a twin!!
